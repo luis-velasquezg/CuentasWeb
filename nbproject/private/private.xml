@@ -3,8 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/X:/Documents/NetBeansProjects/CuentasWeb/src/conf/persistence.xml</file>
+            <file>file:/X:/Documents/NetBeansProjects/CuentasWeb/src/java/com/udea/ejb/AccountFacade.java</file>
+            <file>file:/X:/Documents/NetBeansProjects/CuentasWeb/src/java/com/udea/ejb/AccountFacadeLocal.java</file>
+            <file>file:/X:/Documents/NetBeansProjects/CuentasWeb/src/java/com/udea/servlet/AccountServlet.java</file>
             <file>file:/X:/Documents/NetBeansProjects/CuentasWeb/src/java/com/udea/entity/Account.java</file>
+            <file>file:/X:/Documents/NetBeansProjects/CuentasWeb/src/java/com/udea/ejb/AbstractFacade.java</file>
         </group>
     </open-files>
 </project-private>
