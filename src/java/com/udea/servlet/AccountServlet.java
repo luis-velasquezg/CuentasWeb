@@ -41,7 +41,7 @@ public class AccountServlet extends HttpServlet {
         try {
             String action = request.getParameter("action");
             String url = "index.jsp";
-            if (null != action) switch (action) {
+            if (action != null) switch (action) {
                 case "list":
                     List<Account> findAll = accountFacade.findAll();
                     request.getSession().setAttribute("accounts", findAll);
